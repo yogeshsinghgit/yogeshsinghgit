@@ -1,7 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Yogesh SIngh, a Python developer and Machine Learning Engineer 👨‍💻 Fresher🚀</div>  
   
