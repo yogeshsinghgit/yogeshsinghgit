@@ -1,4 +1,4 @@
-### <div align="center">I'm Yogesh SIngh, a Python developer and Machine Learning Engineer 👨‍💻 Fresher🚀</div>  
+### <div align="center">I'm Yogesh Singh, a Python Django developer and Machine Learning Engineer 👨‍💻 Fresher🚀</div>  
   
 
 
@@ -6,7 +6,7 @@
 -   Working at Bonami Software (Software Engineer)
     
 
-- 🌱 I’m currently learning MLOps and Deep Learning  
+- 🌱 I’m currently learning FastAPI and Docker  
   
 
 - ❓ Ask me about anything related to Python and related technologies  
